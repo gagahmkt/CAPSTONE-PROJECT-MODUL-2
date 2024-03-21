@@ -99,3 +99,7 @@ Dataset ini berisi transaksi dari Perusahaan SaaS fiktif yang menjual software s
 **Lost Customers :**
 - Melakukan kontak langsung dengan customer untuk memahami masalah dan menawarkan solusi yang memuaskan.
 - Melakukan analisis menyeluruh untuk memahami alasan di balik perginya customer dan membuat rencana tindak lanjut untuk mencegah kehilangan customer di masa depan.
+
+# VISUALIZATION ON TABLEAU
+
+link : https://public.tableau.com/app/profile/gagahmkt/viz/AWSSaaSAnalysis/AWSSaaSAnalysis
