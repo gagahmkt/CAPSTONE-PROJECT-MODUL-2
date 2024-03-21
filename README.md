@@ -67,8 +67,8 @@ Dataset ini berisi transaksi dari Perusahaan SaaS fiktif yang menjual software s
 5. Terkait perilaku Customer, hal-hal yang dapat dilakukan perusahan:
 
 - **Champions :**
-- - Memberikan akses eksklusif ke fitur premium, customer support 24/7, dan penawaran harga khusus.
-- - Memberikan insentif untuk mereferensikan produk ke perusahaan lain.
+-- Memberikan akses eksklusif ke fitur premium, customer support 24/7, dan penawaran harga khusus.
+-- Memberikan insentif untuk mereferensikan produk ke perusahaan lain.
 - - Melibatkan customer dalam beta test untuk produk baru atau fitur tambahan, dan gunakan feedback untuk meningkatkan produk secara keseluruhan.
 
 - **Loyal :**
