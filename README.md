@@ -66,36 +66,36 @@ Dataset ini berisi transaksi dari Perusahaan SaaS fiktif yang menjual software s
 
 5. Terkait perilaku Customer, hal-hal yang dapat dilakukan perusahan:
 
-- >**Champions :**
+>**Champions :**
 - Memberikan akses eksklusif ke fitur premium, customer support 24/7, dan penawaran harga khusus.
 - Memberikan insentif untuk mereferensikan produk ke perusahaan lain.
 - Melibatkan customer dalam beta test untuk produk baru atau fitur tambahan, dan gunakan feedback untuk meningkatkan produk secara keseluruhan.
 
-- >**Loyal :**
+>**Loyal :**
 - Menawarkan diskon berkelanjutan bagi customer Loyal atau harga khusus sebagai bentuk penghargaan atas loyalitas customer.
 - Memperkuat hubungan dengan pelanggan Loyal melalui webinar khusus atau konsultasi yang dibuat khusus untuk mereka.
 - Melibatkan customer dalam beta test untuk produk baru atau fitur tambahan, dan gunakan feedback untuk meningkatkan produk secara keseluruhan.
 
-- >**Potential Loyalists :**
+>**Potential Loyalists :**
 - Mengembangkan campaign pemasaran yang ditargetkan khusus dengan berfokus pada manfaat dan value produk yang ditawarkan.
 - Memberikan demo produk atau uji coba gratis kepada customer mencoba sebelum memutuskan untuk berlangganan.
 
-- >**New Customers :**
+>**New Customers :**
 - Menawarkan diskon atau welcome offer kepada customer baru agar memulai penggunaan produk dengan cepat.
 - Memberikan penawaran khusus untuk pembelian berikutnya atau langganan jangka panjang.
 
-- >**Promising :**
+>**Promising :**
 - Meningkatkan engagement produk untuk menarik customer melalui pelatihan, tutorial, atau webinar tentang key features.
 - Memberikan penawaran upgrade atau diskon khusus bagi customer untuk meningkatkan transaksi.
 
-- >**Need Attention :**
+>**Need Attention :**
 - Melakukan audit untuk mengidentifikasi masalah atau kebutuhan customer dan melakukan perbaikan.
 - Menjaga komunikasi secara aktif dengan customer, menawarkan solusi yang relevan dan mengikuti untuk memastikan kebutuhan mereka terpenuhi.
 
-- >**Hibernating Customers :**
+>**Hibernating Customers :**
 - Memberikan insentif atau penawaran khusus untuk mendorong customer supaya kembali berlangganan.
 - Meninjau riwayat transaksi dan mengembangkan strategi untuk memperbaiki pengalaman customer dengan produk.
 
-- >**Lost Customers :**
+>**Lost Customers :**
 - Melakukan kontak langsung dengan customer untuk memahami masalah dan menawarkan solusi yang memuaskan.
 - Melakukan analisis menyeluruh untuk memahami alasan di balik perginya customer dan membuat rencana tindak lanjut untuk mencegah kehilangan customer di masa depan.
